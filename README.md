@@ -13,6 +13,10 @@ This is in a format that most realistically represents what farmers would need t
 Your task is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. With your help, farmers may be able to quickly 
 identify diseased plants, potentially saving their crops before they inflict irreparable damage."
 
+![download](https://user-images.githubusercontent.com/75811738/223484909-8419d70b-c652-41f8-8ac1-ab781d6b956b.png)
+
+
 My best accuracy score was 0.879, standing at 2558 on the final leaderboard.
 
 https://www.kaggle.com/competitions/cassava-leaf-disease-classification
+
